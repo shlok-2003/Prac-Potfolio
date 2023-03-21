@@ -1,0 +1,21 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;700&family=Manrope&family=Montserrat:wght@400;700&family=Ubuntu:wght@400;700&display=swap');
+
+body {
+    font-family: 'Heebo', sans-serif;
+    height: 100vh;
+    width: 100vw;
+    overflow-x: hidden;
+}
+
+@media (min-width:481px) and (max-width:530px) {
+    .link {
+      width: fit-content;
+      margin-left: 4px;
+      margin-right: 4px;
+    }
+}
+
+/* .nav-header {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+} */
